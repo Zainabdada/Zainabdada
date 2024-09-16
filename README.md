@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Zainab Dada</h1>
 <h3 align="center">A goal-oriented individual and a passionate Data Analyst</h3>
 
-- 🔭 I’m currently working on **working with SQL for Data analysis**
+- 🔭 I’m currently working on ** SQL for Data analysis**
 
 - 🌱 I’m currently learning **Advanced SQL for Data Analysis**
 
